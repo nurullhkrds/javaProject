@@ -3,7 +3,7 @@
 
 Kullanılan Teknolojiler
 
-1-)JDBC \n
+JDBC
 POSTGRESQL
 Java swingGUI
 JAVA (İNTELLİJ İDE)
