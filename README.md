@@ -15,9 +15,9 @@
 
 <h3>Kullanılan Teknolojiler<h3/>
 
-JDBC
-POSTGRESQL
-Java swingGUI
+JDBC,
+POSTGRESQL,
+Java swingGUI,
 JAVA (İNTELLİJ İDE)
 
 
