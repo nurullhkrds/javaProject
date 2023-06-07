@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nurullah</h1>
-- 📫 How to reach me **nurullhkardas@gmail.com**
+<h1 align="center">Hi 👋</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,7 +13,7 @@
 # Patika Clone
 
 
-Kullanılan Teknolojiler
+<h3>Kullanılan Teknolojiler<h3/>
 
 JDBC
 POSTGRESQL
