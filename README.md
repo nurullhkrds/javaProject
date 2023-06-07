@@ -1,7 +1,9 @@
 # Patika Clone
-# Kullanılan Teknolojiler
 
-1-)JDBC
+
+Kullanılan Teknolojiler
+
+1-)JDBC \n
 POSTGRESQL
 Java swingGUI
 JAVA (İNTELLİJ İDE)
