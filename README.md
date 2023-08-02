@@ -54,8 +54,10 @@ When any data belonging to Dependent Tables is deleted, the dependent data is au
 
  
 </table>
-
-  <img height="120px" width="180px" src="./java photo/ekran.png" />
+<br>
+<h1>Images</h1>
+<div  style="display:flex;"   >
+<img height="120px" width="180px" src="./java photo/ekran.png" />
 <img height="120px" width="180px" src="./java photo/ekran2.png"ph />
 <img height="120px" width="180px" src="./java photo/ekran3.png" />
 <img height="120px" width="180px" src="./java photo/ekran4.png" />
@@ -63,6 +65,9 @@ When any data belonging to Dependent Tables is deleted, the dependent data is au
 <img height="120px" width="180px" src="./java photo/ekran6.png" />
 <img height="120px" width="180px" src="./java photo/ekran7.png" />
 <img height="120px" width="180px" src="./java photo/ekran8.png" />
+
+</div>
+
 
 
 
