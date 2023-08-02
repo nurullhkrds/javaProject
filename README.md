@@ -46,7 +46,16 @@ Active add, delete, update operations.
 When any data belonging to Dependent Tables is deleted, the dependent data is automatically deleted. Therefore, there is no data mismatch.</p>
    <a href="https://github.com/nurullhkrds/react/tree/main/api" >click here </a>
 
-<img height="120px" width="180px" src="./java photo/ekran.png" />
+
+
+   </td>
+
+</tr>
+  <tr  >
+      <th >Image</th>
+  </tr>
+  <td> 
+  <img height="120px" width="180px" src="./java photo/ekran.png" />
 <img height="120px" width="180px" src="./java photo/ekran2.png"ph />
 <img height="120px" width="180px" src="./java photo/ekran3.png" />
 <img height="120px" width="180px" src="./java photo/ekran4.png" />
@@ -55,9 +64,7 @@ When any data belonging to Dependent Tables is deleted, the dependent data is au
 <img height="120px" width="180px" src="./java photo/ekran7.png" />
 <img height="120px" width="180px" src="./java photo/ekran8.png" />
 
-   </td>
-
-</tr>
+  </td>
 
 
  
