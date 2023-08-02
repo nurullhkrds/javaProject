@@ -14,20 +14,56 @@
 
 
 <h3>Kullanılan Teknolojiler<h3/>
+<ul>
 
-JDBC,
-POSTGRESQL,
-Java swingGUI,
-JAVA (İNTELLİJ İDE)
+<li>JDBC </li>
+<li>POSTGRESQL </li>
+<li>Java swingGUI </li>
+<li>JAVA (İNTELLİJ İDE) </li>
+</ul>
 
 
-# PROJE KONUSU
-Öncelikle nesne tabanlı programlama özelliklerini tam bir şekilde kullandım.
-Bir giriş ekranı gelmekte ve burada sorgular yapılmakta.
-Sorgularda kullanıcı adı ve parola kısmı boş ise uyarı vermekte.
-Kullanıcı adı ve parola kısmı veri tabanındaki verilerle uyuşmaz ise hata mesajı vermekte.
-Kullanıcı adı ve parola kısmı veri tabanındaki verilerle uyuşuyorsa giriş başarılı diyip işlemlerin yapıldığı GUI ekranını çağırır.
-Aktif ekleme,silme,güncelleme işlemleri yapar.
-Bağımlı Tablolara ait herhangi bir veri silindiğinde bağımlı veride otomatik silinir.Böylelikle veri uyumsuzluğu olmaz.
+<table >
+  <tr  >
+    <th  >Title</th>
+    <th >Desc</th>
+      <th >Image</th>
+  </tr>
+
+<tr >
+   <td>
+   <h2>UserPr Project</h2>
+   
+   
+   </td>
+   <td>
+   <p>Use object-oriented programming features is fully used.
+It comes to a login screen where queries are made.
+It gives a warning if the username and password fields are empty.
+If the username and password do not match the items in the database, it will give an error message.
+If the username and password part match the partitions in the database, it says login successful and calls the GUI screen.
+Active add, delete, update operations.
+When any data belonging to Dependent Tables is deleted, the dependent data is automatically deleted. Therefore, there is no data mismatch.</p>
+   <a href="https://github.com/nurullhkrds/react/tree/main/api" >click here </a>
+
+<img height="120px" width="180px" src="./java photo/ekran.png" />
+<img height="120px" width="180px" src="./java photo/ekran2.png"ph />
+<img height="120px" width="180px" src="./java photo/ekran3.png" />
+<img height="120px" width="180px" src="./java photo/ekran4.png" />
+<img height="120px" width="180px" src="./java photo/ekran5.png" />
+<img height="120px" width="180px" src="./java photo/ekran6.png" />
+<img height="120px" width="180px" src="./java photo/ekran7.png" />
+<img height="120px" width="180px" src="./java photo/ekran8.png" />
+
+   </td>
+
+</tr>
+
+
+ 
+</table>
+
+
+
 
  
